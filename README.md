@@ -1,0 +1,2 @@
+# EfficientNetV2_covid
+ 
